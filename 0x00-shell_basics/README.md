@@ -14,3 +14,9 @@ This file execute a script that display current directory contents in a long for
 
 4-listmorefiles
 This file execute a script that display current directory contents, including hidden files (starting with .). Use the long format.
+
+[5-listfilesdigitonly](0x00-shell_basics/5-listfilesdigitonly)
+This file execute a script that display current directory contents.
+     - Long format
+     - with user and group IDs displayed numerically
+     - And hidden files (starting with .)

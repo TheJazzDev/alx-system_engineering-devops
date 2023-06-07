@@ -11,3 +11,6 @@ This file execute a script that changes the working directory to the user’s ho
 
 3-listfiles
 This file execute a script that display current directory contents in a long format
+
+4-listmorefiles
+This file execute a script that display current directory contents, including hidden files (starting with .). Use the long format.

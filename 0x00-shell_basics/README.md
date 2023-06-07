@@ -41,3 +41,6 @@ This file execute a script lists all files (even ones with names beginning with 
 
 ### [12-file_type](12-file_type)
 This file execute a script that prints the type of the file named iamafile
+
+### [13-symbolic_link](13-symbolic_link)
+This file execute a script that create a symbolic link to /bin/ls, named __ls__

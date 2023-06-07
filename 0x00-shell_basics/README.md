@@ -28,4 +28,7 @@ This file execute a script that creates a directory named my_first_directory in 
 This file excute a script that move the file betty from /tmp/ to /tmp/my_first_directory
 
 ### [8-firstdelete](8-firstdelete)
-This file execute a scritp that delet ethe file betty from /tmp/my_first_directory
+This file execute a scritp that delete the file betty from /tmp/my_first_directory
+
+### [my_first_directory](my_first_directory)
+This file execute a script that delete the my_first_directory from /tmp

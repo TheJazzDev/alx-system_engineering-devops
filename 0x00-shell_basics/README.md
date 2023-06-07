@@ -34,4 +34,7 @@ This file execute a scritp that delete the file betty from /tmp/my_first_directo
 This file execute a script that delete the my_first_directory from /tmp
 
 ### [10-back](10-back)
-This file execute a scrip that changes the working directory to the previous one
+This file execute a script that changes the working directory to the previous one
+
+### [11-lists](11-lists)
+This file execute a script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 

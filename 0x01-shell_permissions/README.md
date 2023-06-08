@@ -8,3 +8,6 @@ This file execute a script that prints the effective username of the current use
 
 ### [2-groups](2-groups)
 This file execute a script that prints all the groups the current user is part of
+
+### [3-new_owner](3-new_owner)
+This file execute a script that change the owner of the file hello to the user betty

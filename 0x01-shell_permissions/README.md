@@ -10,4 +10,7 @@ This file execute a script that prints the effective username of the current use
 This file execute a script that prints all the groups the current user is part of
 
 ### [3-new_owner](3-new_owner)
-This file execute a script that change the owner of the file hello to the user betty
+This file execute a script that change the owner of the file `hello` to the user `betty`
+
+### [4-empty](4-empty)
+This file execute a script that create an empty file called `hello`

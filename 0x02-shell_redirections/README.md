@@ -5,3 +5,6 @@ This file execute a script that prints `Hello, World`, followed by a new line to
 
 ### [1-confused_smiley](1-confused_smiley)
 This file execute a script that displays a confused smiley `"(Ôo)'`
+
+### [2-hellofile](2-hellofile)
+This file execute a script that display the content of the `/etc/passwd` file

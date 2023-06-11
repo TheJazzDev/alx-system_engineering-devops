@@ -14,3 +14,6 @@ This file execute a script that display the content of `/etc/passwd` and `/etc/h
 
 ### [4-lastlines](4-lastlines)
 This file execute a script that display the last 10 lines of `/etc/passwd`
+
+### [5-firstlines](5-firstlines)
+This file execute a script that display the first 10 lines of `/etc/passwd`

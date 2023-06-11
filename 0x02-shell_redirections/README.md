@@ -1,5 +1,5 @@
 ## The content of this file are arrange in a file name and what they do format.
-
+11;rgb:0000/0000/0000
 ### [0-hello_world](0-hello_world)
 This file execute a script that prints `Hello, World`, followed by a new line to the standard output
 
@@ -29,3 +29,6 @@ This file execute a script that writes into the file `ls_cwd_content` the result
 
 ### [9-duplicate_last_line](9-duplicate_last_line)
 This file execute a script that duplicates the last line of the file iacta
+
+### [10-no_more_js](10-no_more_js)
+This file execute a script that deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders

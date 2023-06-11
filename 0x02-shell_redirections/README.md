@@ -17,3 +17,6 @@ This file execute a script that display the last 10 lines of `/etc/passwd`
 
 ### [5-firstlines](5-firstlines)
 This file execute a script that display the first 10 lines of `/etc/passwd`
+
+### [6-third_line](6-third_line)
+This file execute a script that display the third like of the file `iacta`

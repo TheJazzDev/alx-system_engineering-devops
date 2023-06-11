@@ -11,3 +11,6 @@ This file execute a script that display the content of the `/etc/passwd` file
 
 ### [3-twofiles](3-twofiles)
 This file execute a script that display the content of `/etc/passwd` and `/etc/hosts`
+
+### [4-lastlines](4-lastlines)
+This file execute a script that display the last 10 lines of `/etc/passwd`

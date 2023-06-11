@@ -43,3 +43,6 @@ This file execute a script that displays the 10 newest files in the current dire
 
 ### [13-unique](13-unique)
 This file execute a script that takes a list of words as input and prints only words that appear exactly once
+
+### [14-findthatword](14-findthatword)
+This file execute a script that display lines containing the pattern `“root”` from the file `/etc/passwd`

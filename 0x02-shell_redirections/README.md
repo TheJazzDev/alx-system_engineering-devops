@@ -1,5 +1,5 @@
 ## The content of this file are arrange in a file name and what they do format.
-11;rgb:0000/0000/0000
+
 ### [0-hello_world](0-hello_world)
 This file execute a script that prints `Hello, World`, followed by a new line to the standard output
 
@@ -67,3 +67,6 @@ This file execute a script that removes all letters `c` and `C` from input
 
 ### [21-reverse](21-reverse)
 This file execute a script that reverse its input
+
+### [22-users_and_homes](22-users_and_homes)
+This file execute a script that displays all users and their home directories, sorted by users

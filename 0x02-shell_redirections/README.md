@@ -49,3 +49,6 @@ This file execute a script that display lines containing the pattern `“root”
 
 ### [15-countthatword](15-countthatword)
 This file execute a script that display the number of lines that contain the pattern `“bin”` in the file `/etc/passwd`
+
+### [16-whatsnext](16-whatsnext)
+Tis file execute a script that display lines containing the pattern `“root”` and 3 lines after them in the file `/etc/passwd`

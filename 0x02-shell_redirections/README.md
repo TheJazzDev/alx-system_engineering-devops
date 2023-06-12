@@ -64,3 +64,6 @@ This file execute a script that replace all characters `A` and `c` from input to
 
 ### [20-hiago](20-hiago)
 This file execute a script that removes all letters `c` and `C` from input
+
+### [21-reverse](21-reverse)
+This file execute a script that reverse its input

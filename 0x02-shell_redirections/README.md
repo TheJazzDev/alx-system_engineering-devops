@@ -52,3 +52,6 @@ This file execute a script that display the number of lines that contain the pat
 
 ### [16-whatsnext](16-whatsnext)
 Tis file execute a script that display lines containing the pattern `“root”` and 3 lines after them in the file `/etc/passwd`
+
+### [17-hidethisword](17-hidethisword)
+THis file execute a script that display all the lines in the file `/etc/passwd` that do not contain the pattern `“bin”`

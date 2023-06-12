@@ -78,3 +78,13 @@ This file execute a script that that finds all empty files and directories in th
 * One file name per line
 * The listing should end with a new line
 * You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`
+
+### [101-gifs](101-gifs)
+This file execute a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+* Hidden files should be listed
+* Only regular files (not directories) should be listed
+* The names of the files should be displayed without their extensions
+* The files should be sorted by byte values, but case-insensitive (file `aaa` should be listed before file `bbb`, file `.b` should be listed before file `a`, and file `Rona` should be listed after file `jay`)
+* One file name per line
+* The listing should end with a new line
+* You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`

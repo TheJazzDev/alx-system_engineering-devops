@@ -56,5 +56,8 @@ Tis file execute a script that display lines containing the pattern `“root”`
 ### [17-hidethisword](17-hidethisword)
 THis file execute a script that display all the lines in the file `/etc/passwd` that do not contain the pattern `“bin”`
 
-$$$ [18-letteronly](18-letteronly)
+### [18-letteronly](18-letteronly)
 This file execute a script that all lines of the file `/etc/ssh/sshd_config` starting with a letter
+
+### [19-AZ](19-AZ)
+This file execute a script that replace all characters `A` and `c` from input to `Z` and `e` respectively

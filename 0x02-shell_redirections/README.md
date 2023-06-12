@@ -61,3 +61,6 @@ This file execute a script that all lines of the file `/etc/ssh/sshd_config` sta
 
 ### [19-AZ](19-AZ)
 This file execute a script that replace all characters `A` and `c` from input to `Z` and `e` respectively
+
+### [20-hiago](20-hiago)
+This file execute a script that removes all letters `c` and `C` from input

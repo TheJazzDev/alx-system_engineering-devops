@@ -1,2 +1,2 @@
 #!/bin/bash
-input="$1"; output="${input//[Aa]/Z}"; output="${output//c/e}"; echo "$output"
+tr 'Ac' 'Ze' <<< "$1"

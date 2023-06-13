@@ -1,5 +1,5 @@
 ## The content of this file are arrange in a file name and what they do format
-
+11;rgb:0000/0000/0000
 ### [0-alias](0-alias)
 This file execute a script that creates an alias
 
@@ -11,3 +11,6 @@ THis file execute a script that add `/action` to the `PATH`. `/action` should be
 
 ### [3-paths](3-paths)
 This file execute a script that counts the number of directories in the `PATH`
+
+### [4-global_variables](4-global_variables)
+This file execute a script that lists environment variables

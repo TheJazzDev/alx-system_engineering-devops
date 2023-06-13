@@ -1,5 +1,5 @@
 ## The content of this file are arrange in a file name and what they do format
-
+11;rgb:0000/0000/0000
 ### [0-alias](0-alias)
 This file execute a script that creates an alias
 * Name: `ls`
@@ -38,3 +38,8 @@ This file execute a script that prints the result of `POWER` divided by `DIVIDE`
 
 ### [10-love_exponent_breath](10-love_exponent_breath)
 This file execute a script that displays the result of `BREATH` to the power `LOVE`
+
+### [11-binary_to_decimal](11-binary_to_decimal)
+This file execute a script that converts a number from base 2 to base 10
+* The number in base 2 is stored in the environment variable `BINARY`
+* The script should display the number in base 10, followed by a new line

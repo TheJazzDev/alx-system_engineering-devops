@@ -24,3 +24,8 @@ This file execute a script that lists all local variables and environment variab
 This file execute a script that creates a new local variable
 * Name: `BEST`
 * Value: `School`
+
+### [7-create_global_variable](7-create_global_variable)
+This file execute a script that creates a new global variable
+* Name: `BEST`
+* Value: `School`

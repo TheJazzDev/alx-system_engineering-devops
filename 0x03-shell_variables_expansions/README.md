@@ -35,3 +35,6 @@ This file execute a script that prints the result of the addition of 128 with th
 
 ### [9-divide_and_rule](9-divide_and_rule)
 This file execute a script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line
+
+### [10-love_exponent_breath](10-love_exponent_breath)
+This file execute a script that displays the result of `BREATH` to the power `LOVE`

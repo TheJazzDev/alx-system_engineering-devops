@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%o\n' $(( 5#$(echo $WATER | tr -d water) + 5#$(echo $STIR | tr -d stir.) )) | tr -d '\n' | tr '01234567' 'shtbeolc'
+echo "$((16#${WATER} + 16#${STIR}) | bc -l | base64 -d | od -t x1 | tr -d '\n')"
